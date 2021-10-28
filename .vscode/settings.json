@@ -1,16 +1,6 @@
 {
   "sqltools.connections": [
     {
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 5432,
-      "driver": "PostgreSQL",
-      "name": "pgTest",
-      "database": "pg",
-      "username": "b1019xxx",
-      "password": "pass"
-    },
-    {
       "mysqlOptions": {
         "authProtocol": "default"
       },
